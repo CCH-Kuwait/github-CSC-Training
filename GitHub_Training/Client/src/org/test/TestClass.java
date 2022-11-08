@@ -9,5 +9,6 @@ public class TestClass {
     public static void main(String[] args) {
         System.out.println("Hello main");
         System.out.println("Hello main commit 01");
+        System.out.println("Hello main commit 02");
     }
 }
