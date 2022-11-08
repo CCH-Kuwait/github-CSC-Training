@@ -8,7 +8,5 @@ public class TestClass {
 
     public static void main(String[] args) {
         System.out.println("Hello main");
-        System.out.println("Hello feature-01 beta");
-        System.out.println("Hello feature-02");
     }
 }
